@@ -4,6 +4,6 @@
 
 
 opcion = 1
-variable = 100
-rango = 10
+variable = 500
+rango = 40
 
